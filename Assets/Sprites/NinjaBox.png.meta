@@ -1,0 +1,3463 @@
+fileFormatVersion: 2
+guid: ebbb40f768ca4f943804d29a10c9cb32
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3951737011943406041
+    second: NinjaBox_0
+  - first:
+      213: 1994983633796798
+    second: NinjaBox_1
+  - first:
+      213: -5505169530754571891
+    second: NinjaBox_2
+  - first:
+      213: 6904518156603506155
+    second: NinjaBox_3
+  - first:
+      213: -4297981351298236687
+    second: NinjaBox_4
+  - first:
+      213: 6400243099303668724
+    second: NinjaBox_5
+  - first:
+      213: -6605681099773879755
+    second: NinjaBox_6
+  - first:
+      213: -4070975401854633871
+    second: NinjaBox_7
+  - first:
+      213: 2596337914174956249
+    second: NinjaBox_8
+  - first:
+      213: 867801804075951681
+    second: NinjaBox_9
+  - first:
+      213: 907147065249521938
+    second: NinjaBox_10
+  - first:
+      213: -4410515493782892561
+    second: NinjaBox_11
+  - first:
+      213: -7604375487819515110
+    second: NinjaBox_12
+  - first:
+      213: 4525658900735873768
+    second: NinjaBox_13
+  - first:
+      213: -1285501582833134549
+    second: NinjaBox_14
+  - first:
+      213: 5388952331758612683
+    second: NinjaBox_15
+  - first:
+      213: 9196459763904166545
+    second: NinjaBox_16
+  - first:
+      213: -3151910901778432225
+    second: NinjaBox_17
+  - first:
+      213: -6275035017492566558
+    second: NinjaBox_18
+  - first:
+      213: -2997656323688837014
+    second: NinjaBox_19
+  - first:
+      213: 4552635620267107538
+    second: NinjaBox_20
+  - first:
+      213: -2417519866817012863
+    second: NinjaBox_21
+  - first:
+      213: -1247654607823926120
+    second: NinjaBox_22
+  - first:
+      213: -5736264420270298629
+    second: NinjaBox_23
+  - first:
+      213: -4601410641422300499
+    second: NinjaBox_24
+  - first:
+      213: 1663617958222680435
+    second: NinjaBox_25
+  - first:
+      213: -3137562606616840964
+    second: NinjaBox_26
+  - first:
+      213: 2535696018798960271
+    second: NinjaBox_27
+  - first:
+      213: 1118971978428453459
+    second: NinjaBox_28
+  - first:
+      213: 1350462210023324994
+    second: NinjaBox_29
+  - first:
+      213: -7939284648843568884
+    second: NinjaBox_30
+  - first:
+      213: 4906592326635108327
+    second: NinjaBox_31
+  - first:
+      213: 4682872461584671388
+    second: NinjaBox_32
+  - first:
+      213: 3418370746583532360
+    second: NinjaBox_33
+  - first:
+      213: -4448890318896838737
+    second: NinjaBox_34
+  - first:
+      213: 5887415038579530329
+    second: NinjaBox_35
+  - first:
+      213: 2753768410192334641
+    second: NinjaBox_36
+  - first:
+      213: 5644413778182031006
+    second: NinjaBox_37
+  - first:
+      213: 907883417333619128
+    second: NinjaBox_38
+  - first:
+      213: 6011442742299497002
+    second: NinjaBox_39
+  - first:
+      213: 8359003025053001546
+    second: NinjaBox_40
+  - first:
+      213: 6991170919465306965
+    second: NinjaBox_41
+  - first:
+      213: -5345706478051710341
+    second: NinjaBox_42
+  - first:
+      213: 1380031567127384594
+    second: NinjaBox_43
+  - first:
+      213: 3175472688467377504
+    second: NinjaBox_44
+  - first:
+      213: 8642342974659301644
+    second: NinjaBox_45
+  - first:
+      213: -5116816194889561311
+    second: NinjaBox_46
+  - first:
+      213: -158152199781004388
+    second: NinjaBox_47
+  - first:
+      213: -6565307338371765982
+    second: NinjaBox_48
+  - first:
+      213: -6381595797992137528
+    second: NinjaBox_49
+  - first:
+      213: -231737989460897084
+    second: NinjaBox_50
+  - first:
+      213: -7181803674730577092
+    second: NinjaBox_51
+  - first:
+      213: -791913308282669269
+    second: NinjaBox_52
+  - first:
+      213: 6776369963189462434
+    second: NinjaBox_53
+  - first:
+      213: -5363750390757122184
+    second: NinjaBox_54
+  - first:
+      213: 795210249721545681
+    second: NinjaBox_55
+  - first:
+      213: 14746338805761709
+    second: NinjaBox_56
+  - first:
+      213: -5288133565540072382
+    second: NinjaBox_57
+  - first:
+      213: -739686776163093008
+    second: NinjaBox_58
+  - first:
+      213: 8327629074584977574
+    second: NinjaBox_59
+  - first:
+      213: -3301734072486355227
+    second: NinjaBox_60
+  - first:
+      213: 4621560051243611635
+    second: NinjaBox_61
+  - first:
+      213: 1364329457216958406
+    second: NinjaBox_62
+  - first:
+      213: -1429628358560432634
+    second: NinjaBox_63
+  - first:
+      213: -3830260706794859459
+    second: NinjaBox_64
+  - first:
+      213: -9054993636109586959
+    second: NinjaBox_65
+  - first:
+      213: 7156648607289308649
+    second: NinjaBox_66
+  - first:
+      213: 9051195560772538360
+    second: NinjaBox_67
+  - first:
+      213: 5916859247272346850
+    second: NinjaBox_68
+  - first:
+      213: 7356798815473932261
+    second: NinjaBox_69
+  - first:
+      213: -8490166450010729668
+    second: NinjaBox_70
+  - first:
+      213: 1539094625207474457
+    second: NinjaBox_71
+  - first:
+      213: 344822626762851302
+    second: NinjaBox_72
+  - first:
+      213: -8114567247996519351
+    second: NinjaBox_73
+  - first:
+      213: -6097876488065377408
+    second: NinjaBox_74
+  - first:
+      213: -8609932243343837781
+    second: NinjaBox_75
+  - first:
+      213: 6149198174687143821
+    second: NinjaBox_76
+  - first:
+      213: 7096607285213079306
+    second: NinjaBox_77
+  - first:
+      213: 269282987573404516
+    second: NinjaBox_78
+  - first:
+      213: -1620743996452114672
+    second: NinjaBox_79
+  - first:
+      213: -7549683394475264788
+    second: NinjaBox_80
+  - first:
+      213: -1016488855382505700
+    second: NinjaBox_81
+  - first:
+      213: 3229961372233295924
+    second: NinjaBox_82
+  - first:
+      213: -4023978059637421994
+    second: NinjaBox_83
+  - first:
+      213: -5718510820792718173
+    second: NinjaBox_84
+  - first:
+      213: 72442067052003444
+    second: NinjaBox_85
+  - first:
+      213: -2077244857793973673
+    second: NinjaBox_86
+  - first:
+      213: 6174046116851954144
+    second: NinjaBox_87
+  - first:
+      213: 8587576092555320632
+    second: NinjaBox_88
+  - first:
+      213: -6645114759669530970
+    second: NinjaBox_89
+  - first:
+      213: 3378027041257566357
+    second: NinjaBox_90
+  - first:
+      213: 4119330996419640230
+    second: NinjaBox_91
+  - first:
+      213: 7456994023991853316
+    second: NinjaBox_92
+  - first:
+      213: -7801928899602852525
+    second: NinjaBox_93
+  - first:
+      213: -2154795565346997969
+    second: NinjaBox_94
+  - first:
+      213: -3255006079801297110
+    second: NinjaBox_95
+  - first:
+      213: 4377121589205545267
+    second: NinjaBox_96
+  - first:
+      213: 3442317878275391895
+    second: NinjaBox_97
+  - first:
+      213: -4172763062957906589
+    second: NinjaBox_98
+  - first:
+      213: 2843035987789863539
+    second: NinjaBox_99
+  - first:
+      213: 6265491627065511883
+    second: NinjaBox_100
+  - first:
+      213: -3446282743922571804
+    second: NinjaBox_101
+  - first:
+      213: -6657099555797273023
+    second: NinjaBox_102
+  - first:
+      213: 9185325146507818973
+    second: NinjaBox_103
+  - first:
+      213: 906914084263264546
+    second: NinjaBox_104
+  - first:
+      213: -624787624271455371
+    second: NinjaBox_105
+  - first:
+      213: 2988788866486868651
+    second: NinjaBox_106
+  - first:
+      213: 7147090551020813021
+    second: NinjaBox_107
+  - first:
+      213: 2398322758765004046
+    second: NinjaBox_108
+  - first:
+      213: -4132359924823909569
+    second: NinjaBox_109
+  - first:
+      213: 2267656215616470791
+    second: NinjaBox_110
+  - first:
+      213: 8626722647240773785
+    second: NinjaBox_111
+  - first:
+      213: -6139300178915789596
+    second: NinjaBox_112
+  - first:
+      213: 2135959994028682450
+    second: NinjaBox_113
+  - first:
+      213: 8303102112452878213
+    second: NinjaBox_114
+  - first:
+      213: 4363851891976702373
+    second: NinjaBox_115
+  - first:
+      213: -1824202660496261176
+    second: NinjaBox_116
+  - first:
+      213: -4931083972980169216
+    second: NinjaBox_117
+  - first:
+      213: 8995973939260357639
+    second: NinjaBox_118
+  - first:
+      213: 8219306142705995444
+    second: NinjaBox_119
+  - first:
+      213: 7524851935670558442
+    second: NinjaBox_120
+  - first:
+      213: 5104616372262690613
+    second: NinjaBox_121
+  - first:
+      213: -7198126008055190662
+    second: NinjaBox_122
+  - first:
+      213: 4770297958390434561
+    second: NinjaBox_123
+  - first:
+      213: 5949248898813840207
+    second: NinjaBox_124
+  - first:
+      213: -6080278997577027470
+    second: NinjaBox_125
+  - first:
+      213: 4383400953361280559
+    second: NinjaBox_126
+  - first:
+      213: -4107020829207192207
+    second: NinjaBox_127
+  - first:
+      213: 4088475624951631375
+    second: NinjaBox_128
+  - first:
+      213: -6498651540878929481
+    second: NinjaBox_129
+  - first:
+      213: -4155979544777825546
+    second: NinjaBox_130
+  - first:
+      213: -150894451638807632
+    second: NinjaBox_131
+  - first:
+      213: -6234343171118958123
+    second: NinjaBox_132
+  - first:
+      213: -3288855538231127724
+    second: NinjaBox_133
+  - first:
+      213: -786939616535716540
+    second: NinjaBox_134
+  - first:
+      213: -5518606923397837918
+    second: NinjaBox_135
+  - first:
+      213: 3255824436070419069
+    second: NinjaBox_136
+  - first:
+      213: 7440299267589121732
+    second: NinjaBox_137
+  - first:
+      213: -7853510367231100632
+    second: NinjaBox_138
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NinjaBox_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 501
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d976aa00e367d630800000000000000
+      internalID: 3951737011943406041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 503
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe33d25d66170000800000000000000
+      internalID: 1994983633796798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 489
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81e11bba75b993b0800000000000000
+      internalID: -5505169530754571891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_3
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 479
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed36958ea6c1df50800000000000000
+      internalID: 6904518156603506155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 496
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe7d909bb08a54c0800000000000000
+      internalID: -4297981351298236687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_5
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 489
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbe32a503b32d850800000000000000
+      internalID: 6400243099303668724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_6
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a5774c908e354a0800000000000000
+      internalID: -6605681099773879755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_7
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 483
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178f913e07df087c0800000000000000
+      internalID: -4070975401854633871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_8
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 505
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2e643b39b080420800000000000000
+      internalID: 2596337914174956249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_9
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 492
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146e36b942d0b0c00800000000000000
+      internalID: 867801804075951681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_10
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 471
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2116c371375d69c00800000000000000
+      internalID: 907147065249521938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_11
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 473
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefc6bcb683bac2c0800000000000000
+      internalID: -4410515493782892561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 404
+        width: 126
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b74d598c4d77690800000000000000
+      internalID: -7604375487819515110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_13
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 410
+        width: 114
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e252f0dace5ece30800000000000000
+      internalID: 4525658900735873768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_14
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 407
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24570d0f1bf82ee0800000000000000
+      internalID: -1285501582833134549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_15
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 480
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc03cf5089769ca40800000000000000
+      internalID: 5388952331758612683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 476
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a3eaa2e6360af70800000000000000
+      internalID: 9196459763904166545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_17
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 473
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fb0dffbb92244d0800000000000000
+      internalID: -3151910901778432225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_18
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 470
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ede73de5e89ae8a0800000000000000
+      internalID: -6275035017492566558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_19
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 418
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60d2d3b47f2666d0800000000000000
+      internalID: -2997656323688837014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 452
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4afc9c9f53e2f30800000000000000
+      internalID: 4552635620267107538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_21
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 450
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b1cec5d7e337ed0800000000000000
+      internalID: -2417519866817012863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_22
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 406
+        width: 104
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c864a9eb07faee0800000000000000
+      internalID: -1247654607823926120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_23
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 461
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9a31cd6e1b460b0800000000000000
+      internalID: -5736264420270298629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_24
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 448
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa4254a6618420c0800000000000000
+      internalID: -4601410641422300499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_25
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 453
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371d2d108bb561710800000000000000
+      internalID: 1663617958222680435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_26
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 433
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4fd0cce632574d0800000000000000
+      internalID: -3137562606616840964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_27
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 444
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e52ea281a903320800000000000000
+      internalID: 2535696018798960271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_28
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 439
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35218d7f513678f00800000000000000
+      internalID: 1118971978428453459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_29
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 432
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d7707993ecdb210800000000000000
+      internalID: 1350462210023324994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 398
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0997fe0daef1d190800000000000000
+      internalID: -7939284648843568884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_31
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 432
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e73ebe89b7b71440800000000000000
+      internalID: 4906592326635108327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_32
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 426
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92a63161b7ecf040800000000000000
+      internalID: 4682872461584671388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_33
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 404
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843c2bc251e707f20800000000000000
+      internalID: 3418370746583532360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_34
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 409
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7ca7183dd5242c0800000000000000
+      internalID: -4448890318896838737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_35
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 412
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a53d3e8cc44b150800000000000000
+      internalID: 5887415038579530329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_36
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 414
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fc43b67c9573620800000000000000
+      internalID: 2753768410192334641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_37
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 403
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e964cd50d6cf45e40800000000000000
+      internalID: 5644413778182031006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_38
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 413
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b953ab6823799c00800000000000000
+      internalID: 907883417333619128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_39
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 384
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a229c5af25fec6350800000000000000
+      internalID: 6011442742299497002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_40
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 389
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4723b0a6f4210470800000000000000
+      internalID: 8359003025053001546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_41
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 392
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b45c219e0a50160800000000000000
+      internalID: 6991170919465306965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_42
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 393
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a293ee74c30d5b0800000000000000
+      internalID: -5345706478051710341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 398
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2121479066bd62310800000000000000
+      internalID: 1380031567127384594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_44
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 395
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d7d06f59b811c20800000000000000
+      internalID: 3175472688467377504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_45
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 397
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0119a77525cfe770800000000000000
+      internalID: 8642342974659301644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_46
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 396
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b44a2e7ca6df8b0800000000000000
+      internalID: -5116816194889561311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_47
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 321
+        width: 102
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b4b9789612ecdf0800000000000000
+      internalID: -158152199781004388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_48
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 321
+        width: 98
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229e51f92c753e4a0800000000000000
+      internalID: -6565307338371765982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_49
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 303
+        width: 74
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc9d80de640077a0800000000000000
+      internalID: -6381595797992137528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_50
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 329
+        width: 98
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c25831c683b8ccf0800000000000000
+      internalID: -231737989460897084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_51
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 307
+        width: 76
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33c611db9b155c90800000000000000
+      internalID: -7181803674730577092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_52
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 386
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2738e6ba0f8205f0800000000000000
+      internalID: -791913308282669269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_53
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 315
+        width: 103
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5e88a24908a0e50800000000000000
+      internalID: 6776369963189462434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_54
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 315
+        width: 98
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f1f0f10712095b0800000000000000
+      internalID: -5363750390757122184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_55
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 315
+        width: 96
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d307684287290b00800000000000000
+      internalID: 795210249721545681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_56
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 371
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6414e87b3643000800000000000000
+      internalID: 14746338805761709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_57
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 373
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2440a253a86cc96b0800000000000000
+      internalID: -5288133565540072382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_58
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 351
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5bebdcbca1cb5f0800000000000000
+      internalID: -739686776163093008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_59
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 358
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a04adb858ea19370800000000000000
+      internalID: 8327629074584977574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_60
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 322
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee95aaba52ed22d0800000000000000
+      internalID: -3301734072486355227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_61
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 254
+        width: 98
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5f28a6164132040800000000000000
+      internalID: 4621560051243611635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfa40ea9621fe210800000000000000
+      internalID: 1364329457216958406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_63
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 302
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e3e271590f82ce0800000000000000
+      internalID: -1429628358560432634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_64
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 240
+        width: 105
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d341b564e2e28dac0800000000000000
+      internalID: -3830260706794859459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_65
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 240
+        width: 98
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fde34c6343365280800000000000000
+      internalID: -9054993636109586959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_66
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 238
+        width: 98
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5f5c3adf5815360800000000000000
+      internalID: 7156648607289308649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_67
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 242
+        width: 98
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff8070486e4c9d70800000000000000
+      internalID: 9051195560772538360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_68
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 244
+        width: 101
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e447a3f228ec1250800000000000000
+      internalID: 5916859247272346850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_69
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 208
+        width: 77
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e796507b89981660800000000000000
+      internalID: 7356798815473932261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_70
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 294
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33db27b89edc2a80800000000000000
+      internalID: -8490166450010729668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_71
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 208
+        width: 76
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919543b3866fb5510800000000000000
+      internalID: 1539094625207474457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_72
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 272
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e387b22a5e09c400800000000000000
+      internalID: 344822626762851302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_73
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 281
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cf52da414436f80800000000000000
+      internalID: -8114567247996519351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_74
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 275
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b18ac54adff5ba0800000000000000
+      internalID: -6097876488065377408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 272
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5fe47fd30638880800000000000000
+      internalID: -8609932243343837781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_76
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 259
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8725b7f827565550800000000000000
+      internalID: 6149198174687143821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_77
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 261
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a072399f9b63c7260800000000000000
+      internalID: 7096607285213079306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_78
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 263
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4636e52537facb300800000000000000
+      internalID: 269282987573404516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_79
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 233
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fef9b1ce5f189e0800000000000000
+      internalID: -1620743996452114672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_80
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 239
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4f2a1e3f22a3790800000000000000
+      internalID: -7549683394475264788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_81
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 247
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1748c885c4b4e1f0800000000000000
+      internalID: -1016488855382505700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_82
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 227
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438e23641c023dc20800000000000000
+      internalID: 3229961372233295924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_83
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 179
+        width: 98
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65888535645f728c0800000000000000
+      internalID: -4023978059637421994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_84
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 204
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac2c6ad4b4c3a0b0800000000000000
+      internalID: -5718510820792718173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_85
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 229
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4700e691dad510100800000000000000
+      internalID: 72442067052003444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_86
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 157
+        width: 105
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752feabbec42c23e0800000000000000
+      internalID: -2077244857793973673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_87
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 157
+        width: 97
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e137d55b3e9ea550800000000000000
+      internalID: 6174046116851954144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_88
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 159
+        width: 98
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d956e05f23d2770800000000000000
+      internalID: 8587576092555320632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_89
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 167
+        width: 98
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae313a555fc7c3a0800000000000000
+      internalID: -6645114759669530970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_90
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 167
+        width: 98
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59032db42b921ee20800000000000000
+      internalID: 3378027041257566357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_91
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 216
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab39d157bdca2930800000000000000
+      internalID: 4119330996419640230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_92
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 220
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401ce345e809c7760800000000000000
+      internalID: 7456994023991853316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_93
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 218
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3555150900bf9b390800000000000000
+      internalID: -7801928899602852525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29b7e399d0a812e0800000000000000
+      internalID: -2154795565346997969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_95
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 194
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27f4b75735e3d2d0800000000000000
+      internalID: -3255006079801297110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_96
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 201
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3313a47f4e8aebc30800000000000000
+      internalID: 4377121589205545267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_97
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 195
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791c4924fd195cf20800000000000000
+      internalID: 3442317878275391895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_98
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 110
+        width: 76
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365e58c3a1e5716c0800000000000000
+      internalID: -4172763062957906589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_99
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 110
+        width: 76
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37addd7fa2e747720800000000000000
+      internalID: 2843035987789863539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_100
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 179
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf8c66507f73f650800000000000000
+      internalID: 6265491627065511883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_101
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 181
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5cfe48a185c20d0800000000000000
+      internalID: -3446282743922571804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_102
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 188
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146fa4e893b3d93a0800000000000000
+      internalID: -6657099555797273023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_103
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 173
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7bf080e84d87f70800000000000000
+      internalID: 9185325146507818973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_104
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 168
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2218f4afd81069c00800000000000000
+      internalID: 906914084263264546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_105
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 153
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b5d3b47fe4457f0800000000000000
+      internalID: -624787624271455371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_106
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 142
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa979783af4a7920800000000000000
+      internalID: 2988788866486868651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_107
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 164
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda752f3df09f2360800000000000000
+      internalID: 7147090551020813021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_108
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 144
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e054cec97dd884120800000000000000
+      internalID: 2398322758765004046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_109
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 161
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b9fc4ea88e6a6c0800000000000000
+      internalID: -4132359924823909569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_110
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 102
+        width: 98
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fb6844055587f10800000000000000
+      internalID: 2267656215616470791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_111
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 143
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9909a949a8648b770800000000000000
+      internalID: 8626722647240773785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_112
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 148
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e47b32c303dccaa0800000000000000
+      internalID: -6139300178915789596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_113
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 52
+        width: 97
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc668a3c4474ad10800000000000000
+      internalID: 2135959994028682450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_114
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 54
+        width: 75
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f9c8a216b8a3370800000000000000
+      internalID: 8303102112452878213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_115
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 64
+        width: 91
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a900b1dc248f8c30800000000000000
+      internalID: 4363851891976702373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_116
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 88
+        width: 95
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf3cc668512fa6e0800000000000000
+      internalID: -1824202660496261176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_117
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 90
+        width: 98
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00625e8a045419bb0800000000000000
+      internalID: -4931083972980169216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_118
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 94
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cf84292ae18dc70800000000000000
+      internalID: 8995973939260357639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_119
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 115
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be4d289367d01270800000000000000
+      internalID: 8219306142705995444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_120
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 35
+        width: 75
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeedd0597f4ad6860800000000000000
+      internalID: 7524851935670558442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_121
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 97
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f5c5f8b8d37d640800000000000000
+      internalID: 5104616372262690613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_122
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 92
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7bae51788e1b1c90800000000000000
+      internalID: -7198126008055190662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_123
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 76
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b02a218b0833240800000000000000
+      internalID: 4770297958390434561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_124
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 11
+        width: 76
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bce2e5a5aff8250800000000000000
+      internalID: 5949248898813840207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_125
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 25
+        width: 98
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270372667728e9ba0800000000000000
+      internalID: -6080278997577027470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_126
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 11
+        width: 76
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e253d51f7f4dc30800000000000000
+      internalID: 4383400953361280559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_127
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d99f5d05ee007c0800000000000000
+      internalID: -4107020829207192207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_128
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 61
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ec5125bee2db830800000000000000
+      internalID: 4088475624951631375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_129
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 24
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1dddadad620d5a0800000000000000
+      internalID: -6498651540878929481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_130
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 13
+        width: 98
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f26ab39f9ef256c0800000000000000
+      internalID: -4155979544777825546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_131
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 13
+        width: 98
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3dd73bb4ae7edf0800000000000000
+      internalID: -150894451638807632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_132
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 31
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d97295bae92b79a0800000000000000
+      internalID: -6234343171118958123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_133
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 49
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45158262053ab52d0800000000000000
+      internalID: -3288855538231127724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_134
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 35
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44dd4b0969a3415f0800000000000000
+      internalID: -786939616535716540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_135
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 17
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab4cd3fd38f963b0800000000000000
+      internalID: -5518606923397837918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_136
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a830313130f2d20800000000000000
+      internalID: 3255824436070419069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_137
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 21
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6af3373c0414760800000000000000
+      internalID: 7440299267589121732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NinjaBox_138
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 9
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829b7514ee9b20390800000000000000
+      internalID: -7853510367231100632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
